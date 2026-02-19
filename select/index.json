@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Spring Snow",
+  "base_artist": "10CM",
+  "createdAt": "2026-02-19T03:10:16.739435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "Vampire Weekend",
+      "has_synced": true,
+      "path": "select/01_Spring_Snow_Vampire_Weekend.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "PENTAGON",
+      "has_synced": true,
+      "path": "select/02_Spring_Snow_PENTAGON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "Pentagon",
+      "has_synced": true,
+      "path": "select/03_Spring_Snow_Pentagon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "CloudNone",
+      "has_synced": true,
+      "path": "select/04_Spring_Snow_CloudNone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "Next Door - Leo Takami",
+      "has_synced": false,
+      "path": "select/05_Spring_Snow_Next_Door_-_Leo_Takami.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "THE BOYZ",
+      "has_synced": true,
+      "path": "select/06_Spring_Snow_THE_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "10CM",
+      "has_synced": true,
+      "path": "select/07_Spring_Snow_10CM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "10CM",
+      "has_synced": true,
+      "path": "select/08_Spring_Snow_10CM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spring Snow",
+      "artist": "Kenichi Asai",
+      "has_synced": true,
+      "path": "select/09_Spring_Snow_Kenichi_Asai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spring Snow",
+      "artist": "10CM",
+      "has_synced": false,
+      "path": "select/pl_01_Spring_Snow_10CM.txt"
+    }
+  ]
+}
